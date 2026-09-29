@@ -1,0 +1,23 @@
+Importing Libraries
+pandas
+numpy
+sqlalchemy
+mysql-connector-python
+jupyter
+
+What each library is for
+pandas                  → Data loading, cleaning, and analysis
+numpy                   → Numerical operations
+sqlalchemy              → Database connection and data loading
+mysql-connector-python  → Connect Python to MySQL
+jupyter                 → Run the Jupyter Notebook
+
+Project structure:
+Walmart Project/
+│
+├── walmart.csv
+├── walmart_analysis.ipynb
+├── requirements.txt
+├── README.md
+└── sql_queries/
+    └── walmart_queries.sql
